@@ -1,2 +1,2 @@
 # DataScience
-## My course work repo for JH Data Science course.
+My coursework repo for the JH Data Science course.
